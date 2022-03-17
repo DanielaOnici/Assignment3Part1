@@ -1,0 +1,7 @@
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\obj\Debug\A3DOATP1.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\obj\Debug\A3DOATP1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\bin\Debug\A3DOATP1.exe.config
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\bin\Debug\A3DOATP1.exe
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\bin\Debug\A3DOATP1.pdb
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\obj\Debug\A3DOATP1.exe
+C:\Users\danie\Desktop\PROG1781\assignments\A3DOATP1\A3DOATP1\obj\Debug\A3DOATP1.pdb
